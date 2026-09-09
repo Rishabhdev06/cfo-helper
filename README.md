@@ -1,7 +1,6 @@
 # 💼 CFO Helper - Advanced Financial Planning Tool
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://your-deployment-url.vercel.app)
-[![GitHub Stars](https://img.shields.io/github/stars/achyut-07/CFO-Helper)](https://github.com/achyut-07/CFO-Helper)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## 🚀 Overview
@@ -62,7 +61,7 @@ CFO Helper is a modern, AI-powered financial planning and business forecasting t
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/achyut-07/CFO-Helper.git
+   git clone https://github.com/Rishabhdev06/cfo-helper.git
    cd CFO-Helper
    ```
 
@@ -138,7 +137,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Achyut** - [@achyut-07](https://github.com/achyut-07)
+Rishabh
 
 ## 🙏 Acknowledgments
 
@@ -161,6 +160,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🌟 If you found this project helpful, please give it a star!
 
-[![GitHub Stars](https://img.shields.io/github/stars/achyut-07/CFO-Helper?style=social)](https://github.com/achyut-07/CFO-Helper)
+
 
 </div>
